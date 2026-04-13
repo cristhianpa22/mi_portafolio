@@ -19,3 +19,13 @@
     color: white;
   }
 }
+
+@layer utilities {
+  .bg-terminal-grid {
+    background-color: var(--color-obsidian);
+    background-image: 
+      linear-gradient(rgba(45, 45, 45, 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(45, 45, 45, 0.1) 1px, transparent 1px);
+    background-size: 30px 30px;
+  }
+}
