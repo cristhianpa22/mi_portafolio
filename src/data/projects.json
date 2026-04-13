@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "FOREWORD",
+        "description": "Aplicación de streaming de música front-end con una estética moderna y minimalista.",
+        "tech": [
+            "HTML5",
+            "Tailwind CSS 4",
+            "JavaScript"
+        ],
+        "image": "/src/assets/projects/foreword.png",
+        "github": "https://github.com/cristhianpa22/Foreword-music?tab=readme-ov-file",
+        "link": "https://foreword-music.vercel.app/index.html",
+        "category": "Web"
+    },
+    {
+        "id": 2,
+        "title": "Delicias-react",
+        "description": "Plataforma de pastelería con simulación de autenticación y carrito de compras funcional.",
+        "tech": [
+            "React",
+            "Tailwind CSS",
+            "Node.js"
+        ],
+        "image": "/src/assets/projects/delicias_react.png",
+        "github": "https://github.com/cristhianpa22/Delicias-react",
+        "link": "https://delicias-react-354m.vercel.app/",
+        "category": "Web"
+    },
+    {
+        "id": 3,
+        "title": "StyleStack",
+        "description": "Aplicación móvil para la organización de ropa y gestión de outfits diarios.",
+        "tech": [
+            "Flutter",
+            "Dart",
+            "REST API"
+        ],
+        "image": "/src/assets/projects/stylestack.png",
+        "github": "https://github.com/jhongaleano/combina_ropa",
+        "category": "Mobile"
+
+    },
+    {
+        "id": 4,
+        "title": "Rick and Morty Explorer",
+        "description": "Explorador de personajes que consume la API oficial de Rick and Morty. Implementa búsqueda en tiempo real, filtros por estado y paginación de datos, optimizado para entorno web.",
+        "tech": [
+            "Flutter",
+            "Dart",
+            "REST API"
+        ],
+        "image": "/src/assets/projects/rick_morty.png",
+        "github": "https://github.com/sofisdevops/rick_and_morty-Persistencia-de-datos-Flutter",
+        "category": "Web"
+        
+    }
+]
