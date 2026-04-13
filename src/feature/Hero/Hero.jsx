@@ -55,11 +55,11 @@ const Hero = () => {
                 </svg>
               </div>
             </div>
-            <span className="text-gray-500 text-lg pl-50">
+            <span className="text-gray-500 text-sm md:text-lg pl-2 md:pl-50">
               Capsdev@devsLinux/react/mi-portafolio {">"} _
             </span>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-12 gap-8 ">
             <div className="md:col-span-4 flex justify-center">
               <div className="relative w-64 h-64">
                 <div className="absolute inset-0 bg-primary/20 blur-3xl rounded-full"></div>
@@ -73,19 +73,19 @@ const Hero = () => {
 
             <div className="md:col-span-8 font-mono">
               <TerminalBar text="console.log('Hola')" />
-              <p className="text-gray-400 font-sans text-lg max-w-xl">
+              <p className="text-gray-400 font-sans text-lg max-w-xl px-4 md:px-0">
                 <span className="text-primary">&gt;</span> ! Hola, soy Cristhian
                 Padilla
               </p>
               <TerminalBar text="npm run dev" />
-              <h2 className="text-4xl md:text-7xl font-black tracking-tighter uppercase font-sans ">
+              <h2 className="text-4xl md:text-7xl font-black tracking-tighter uppercase font-sans  px-4 md:px-0">
                 <span className="text-primary ">&gt;</span> Desarrollador{" "}
                 <span className="text-cyan-400 drop-shadow-[0_0_10px_rgba(34,211,238,0.8)]">
                   Full-Stack
                 </span>
               </h2>
 
-              <p className="mt-6 text-gray-400 font-sans text-lg max-w-xl">
+              <p className="mt-6 text-gray-400 font-sans text-lg max-w-xl px-4 md:px-0">
                 Desarrollador Full-Stack & Mobile | Especialista en Soluciones
                 Multiplataforma. Experto en la creación de aplicaciones
                 escalables con React, Node.js y Flutter. Combino una sólida base
@@ -94,8 +94,8 @@ const Hero = () => {
                 de datos relacionales.
               </p>
 
-              <div className="mt-8 flex gap-4">
-                <button className="border border-primary text-primary px-6 py-2 hover:bg-primary/10 transition-all">
+              <div className="mt-8 flex gap-4 px-4 md:px-0">
+                <button className="border border-primary text-primary px-2 md:px-6 py-2 hover:bg-primary/10 transition-all">
                   <a href="#proyectos">ver_proyectos</a>
                 </button>
                 <button className="text-gray-500 hover:text-white transition-colors">
