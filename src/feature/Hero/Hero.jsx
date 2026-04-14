@@ -3,7 +3,7 @@ import TerminalBar from "../../components/ui/TerminalBar";
 
 const Hero = () => {
     return (
-      <section className="min-h-[80vh] flex items-center justify-center p-6 bg-terminal-grid">
+      <section className="min-h-[80vh] flex items-center justify-center p-6 bg-terminal-grid mb-4">
         <div className="max-w-6xl w-full items-center bg-[#0a0a0a]/80  rounded-lg border border-gray-800 backdrop-blur-sm shadow-2xl pb-4 ">
           <div className="bg-[#2a2a2a] w-full h-full flex items-center p-4 rounded-t-lg max-h-10 mb-4 justify-start gap-2 ">
             <div className="flex gap-2  group/controls">
