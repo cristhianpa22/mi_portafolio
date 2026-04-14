@@ -1,0 +1,32 @@
+{
+  "frontend": [
+    { "name": "React", "level": "Intermedio", "icon": "react" },
+    { "name": "JavaScript", "level": "Intermedio", "icon": "javascript" },
+    { "name": "Tailwind CSS", "level": "Intermedio", "icon": "tailwindcss" },
+    { "name": "HTML5", "level": "Avanzado", "icon": "html5" },
+    { "name": "CSS3", "level": "Avanzado", "icon": "css3" },
+    { "name": "Bootstrap", "level": "Avanzado", "icon": "bootstrap" },
+    { "name": "Flutter", "level": "Intermedio", "icon": "flutter" },
+    { "name": "Figma", "level": "Basico", "icon": "figma" }
+  ],
+  "backend": [
+    { "name": "Node.js", "level": "Intermedio", "icon": "nodedotjs" },
+    { "name": "JavaScript", "level": "Intermedio", "icon": "javascript" },
+    { "name": "Java", "level": "Intermedio", "icon": "java" },
+    { "name": "Python", "level": "Basico", "icon": "python" }
+  ],
+  "mobile": [
+    { "name": "Flutter", "level": "Intermedio", "icon": "flutter" },
+    { "name": "Dart", "level": "Intermedio", "icon": "dart" }
+  ],
+  "tools": [
+    { "name": "GitHub", "level": "Intermedio", "icon": "github" },
+    { "name": "Git", "level": "Intermedio", "icon": "git" },
+    { "name": "Linux", "level": "Intermedio", "icon": "linux" }
+  ],
+  "databases": [
+    { "name": "MySQL", "level": "Intermediate", "icon": "mysql" },
+    { "name": "SQL", "level": "Avanzado", "icon": "sqlserver" }
+  ]
+  
+}
