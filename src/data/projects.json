@@ -8,7 +8,7 @@
             "Tailwind CSS 4",
             "JavaScript"
         ],
-        "image": "/src/assets/projects/foreword.png",
+        "image": "/assets/projects/foreword.png",
         "github": "https://github.com/cristhianpa22/Foreword-music?tab=readme-ov-file",
         "link": "https://foreword-music.vercel.app/index.html",
         "category": "Web"
@@ -22,7 +22,7 @@
             "Tailwind CSS",
             "Node.js"
         ],
-        "image": "/src/assets/projects/delicias_react.png",
+        "image": "/assets/projects/delicias_react.png",
         "github": "https://github.com/cristhianpa22/Delicias-react",
         "link": "https://delicias-react-354m.vercel.app/",
         "category": "Web"
@@ -36,7 +36,7 @@
             "Dart",
             "REST API"
         ],
-        "image": "/src/assets/projects/stylestack.png",
+        "image": "/assets/projects/stylestack.png",
         "github": "https://github.com/jhongaleano/combina_ropa",
         "category": "Mobile"
 
@@ -50,7 +50,7 @@
             "Dart",
             "REST API"
         ],
-        "image": "/src/assets/projects/rick_morty.png",
+        "image": "/assets/projects/rick_morty.png",
         "github": "https://github.com/sofisdevops/rick_and_morty-Persistencia-de-datos-Flutter",
         "category": "Web"
         
