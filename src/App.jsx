@@ -4,6 +4,7 @@ import Hero from './feature/Hero/Hero'
 import ProjectsSection from './feature/Projects/ProjectsSection'
 import StackSection from './feature/stack/StackSecion'
 import AboutSection from './feature/about/AboutSection'
+import ContactSection from './feature/contact/ContactSection'
 
 function App() {
 
@@ -15,6 +16,8 @@ function App() {
         <ProjectsSection />
         <StackSection />
         <AboutSection />
+        <ContactSection/>
+        
       </main>
     </div>
   );
