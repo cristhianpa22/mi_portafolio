@@ -12,7 +12,7 @@ const ProjectsSection = () => {
                         /REPOSITORY/DEPLOYED_PROJECTS
                     </h3>
                     <h2 className=" text-xl text-white md:text-5xl font-bold mb-12">
-                        PROYECTOS_DESTACADOS
+                        <span className="text-[#00FFFF]">01. </span>PROYECTOS_DESTACADOS
                     </h2>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 py-12">
