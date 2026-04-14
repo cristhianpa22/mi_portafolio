@@ -96,7 +96,7 @@ const Hero = () => {
 
               <div className="mt-8 flex gap-4 px-4 md:px-0">
                 <button className="border border-primary text-primary px-2 md:px-6 py-2 hover:bg-primary/10 transition-all">
-                  <a href="#proyectos">ver_proyectos</a>
+                  <a href="#projects">ver_proyectos</a>
                 </button>
                 <button className="text-gray-500 hover:text-white transition-colors">
                   <a href="#contacto">contactame.exe</a>
